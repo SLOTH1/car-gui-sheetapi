@@ -13,3 +13,5 @@ pip install gspread
 py main.py
 ```
 
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Car+GUI+Manager;Python+%2B+SQLite+%2B+Google+Sheets;Welcome+to+my+project!" />
+
