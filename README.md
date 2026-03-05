@@ -6,6 +6,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Car+GUI+Manager;Python+%2B+SQLite+%2B+Google+Sheets;Welcome+to+my+project!" />
 
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 # ขั้นตอนการรันสคริปต์
 ```python
 git clone https://github.com/SLOTH1/car-gui-sheetapi
@@ -14,6 +21,7 @@ pip install PyQT6
 pip install gspread
 py main.py
 ```
+
 
 
 
