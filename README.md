@@ -10,9 +10,6 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 # ขั้นตอนการรันสคริปต์
 ```python
 git clone https://github.com/SLOTH1/car-gui-sheetapi
@@ -21,6 +18,9 @@ pip install PyQT6
 pip install gspread
 py main.py
 ```
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
