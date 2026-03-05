@@ -9,5 +9,7 @@
 git clone https://github.com/SLOTH1/car-gui-sheetapi
 cd car-gui-sheetapi
 pip install PyQT6
+pip install gspread
 py main.py
 ```
+
