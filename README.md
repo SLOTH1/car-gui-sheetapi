@@ -5,7 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F27F7&width=435&lines=%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD+LINE%3A+botshi" alt="Typing SVG" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Car+GUI+Manager;Python+%2B+SQLite+%2B+Google+Sheets;Welcome+to+my+project!" />
-## ลิงค์ที่แสดงข้อมูลที่ผู้ใช้กรอก
+## 📊 Open Google Sheet
+
 [![Open Sheet](https://img.shields.io/badge/Open-Google%20Sheet-green?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/1n-eXUsHuDEWaLY4XYKAstwU2dyxE8XaAFbwbQ7WSlWk/edit?usp=sharing)
 # ขั้นตอนการรันสคริปต์
 ```python
@@ -17,6 +18,7 @@ py main.py
 ```
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
