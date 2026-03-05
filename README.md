@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Car+GUI+Manager;Python+%2B+SQLite+%2B+Google+Sheets;Welcome+to+my+project!" />
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
-</p>
-
 # ขั้นตอนการรันสคริปต์
 ```python
 git clone https://github.com/SLOTH1/car-gui-sheetapi
@@ -20,6 +16,7 @@ py main.py
 ```
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
