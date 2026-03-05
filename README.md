@@ -1,2 +1,3 @@
-# car-gui-sheetapi
-เพิ่มระบบเก็บข้อมูลผ่านชีท
+# Week14
+
+## PyQT6 & sqlite
